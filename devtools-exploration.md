@@ -1,37 +1,53 @@
-# iyf-s10-week-01-Connie-cloud-svg
-# Week {Number}: {Project Title}
+# DevTools Exploration Answers.
+---
+## Website 1: (https://example.com/)
+---
+**HTML Tags  on the page**
+``` html
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<header>
+<div>
+<footer>
+```
+---
+**Page Title**
+Example Domain
+---
+**Number of Headings**
+One.
+---
+## Website 2:(https://developer.mozilla.org/)
+---
+**Tag the navigation menu is wrapped in.**
+``` html
+<div></div>
+```
+---
+**Search Bar Structure**
+Button.
+---
+**What happens when I hover over the links**
+The styles used to create the links is shown.
+---
+## Website 3: (https://www.pinterest.com/login/)
+**HTML elements used**
+``` html
+<!DOCTYPE html>
+<html>
+<body>
+<div>
+<section>
+```
+---
+**Inputs in the form element**
+- Email
+- Password
+---
+**Screenshot of Elements Panel**
+<img width="547" height="354" alt="Screenshot 2026-02-21 215632" src="https://github.com/user-attachments/assets/4cfe4381-a128-4b22-bc09-569f9981663b" />
 
-## Author
-- **Name:** Concepter Bosibori.
-- **GitHub:** [Connie-cloud-svg ](https://github.com/Connie-cloud-svg)
-- **Date:** 21/02/2026
 
-## Project Description
-This is a repository to show what I have learnt concerning the development tools. This is proof that I understood whT developer tools are and I am able to use them.
 
-## Technologies Used
-- HTML5
-- (list all technologies)
-
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-
-## How to Run
-1. Clone this repository
-2. Open `index.html` in your browser
-   OR
-   Run `npm install` then `npm start`
-
-## Lessons Learned
-What did you learn while building this project?
-
-## Challenges Faced
-What problems did you encounter and how did you solve them?
-
-## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
-
-## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
