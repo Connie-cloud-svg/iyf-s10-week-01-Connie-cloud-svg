@@ -1,7 +1,5 @@
 # DevTools Exploration Answers.
----
 ## Website 1: (https://example.com/)
----
 **HTML Tags  on the page**
 ``` html
 <!DOCTYPE html>
@@ -14,13 +12,12 @@
 ```
 ---
 **Page Title**
-Example Domain
+*Example Domain*
 ---
 **Number of Headings**
-One.
+*One.*
 ---
 ## Website 2:(https://developer.mozilla.org/)
----
 **Tag the navigation menu is wrapped in.**
 ``` html
 <div></div>
