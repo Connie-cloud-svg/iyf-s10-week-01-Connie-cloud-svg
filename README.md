@@ -2,7 +2,7 @@
 
 ## Author
 - **Name:** Concepter Bosibori.
-- **GitHub:** [Connie-cloud-svg] (https://github.com/Connie-cloud-svg)
+- **GitHub:** Connie-cloud-svg (https://github.com/Connie-cloud-svg)
 - **Date:** 02/24/2026.
 
 ## Project Description
