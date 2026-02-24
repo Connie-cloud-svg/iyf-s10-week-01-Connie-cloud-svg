@@ -12,10 +12,12 @@
 ```
 ---
 **Page Title**
-*Example Domain*
+
+- *Example Domain*
 ---
 **Number of Headings**
-*One.*
+
+- *One.*
 ---
 ## Website 2:(https://developer.mozilla.org/)
 **Tag the navigation menu is wrapped in.**
@@ -24,10 +26,12 @@
 ```
 ---
 **Search Bar Structure**
-Button.
+
+- Button.
 ---
 **What happens when I hover over the links**
-The styles used to create the links is shown.
+
+- *The styles used to create the links is shown.*
 ---
 ## Website 3: (https://www.pinterest.com/login/)
 **HTML elements used**
