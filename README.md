@@ -39,5 +39,7 @@ I learnt the importance of using semantic HTML.
 It was a bit hard to:
 - clone the repository so that I can add to the HTML file.This was resolved after going through the guidelines.
 
-## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
+## Screenshots (VS Code Extensions)
+
+
+
